@@ -395,14 +395,14 @@ body {
 .shop .shop1 {
   display: block;
   padding: 20px;
-  width: 98%;
+  width: 50%;
   border: solid 2px #fff;
   border-radius: 30px;
 }
 
 .shop1 img {
   border-radius: 50%;
-  width: 100px;
+  width: 35% !important;
   height: 100px;
   margin: -81px auto;
   display: block;
@@ -438,7 +438,7 @@ body {
 
 .client {
   display: block;
-  padding: 20px 60px;
+  padding: 20px 46px;
 }
 
 .client h2 {
@@ -450,11 +450,11 @@ body {
   display: block;
 }
 
-.magic1 .magic {
+.magic {
   display: flex;
   padding: 20px 50px;
   font-size: 20px;
-  gap: 10px;
+  gap: 20px;
 }
 
 .magic img {
@@ -1651,6 +1651,29 @@ body {
     display: block;
     width: 100%;
     padding: 20px 60px;
+  }
+
+  .phone .shop {
+    display: flex;
+    padding: 60px 60px;
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .shop .shop1 {
+    display: block;
+    padding: 20px;
+    width: 50%;
+    border: solid 2px #fff;
+    border-radius: 30px;
+  }
+
+  .shop1 img {
+    border-radius: 50%;
+    width: 35% !important;
+    height: 100px;
+    margin: -81px auto;
+    display: block;
   }
 
   .Lorem {
