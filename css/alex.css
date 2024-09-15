@@ -234,6 +234,7 @@ body {
 .smart {
   display: block;
   width: 40%;
+  line-height: 28px;
 }
 
 .smart h2 {
@@ -248,25 +249,25 @@ body {
 }
 
 .smart h3 {
-  font-size: 16px;
+  font-size: 22px;
   color: #04b4e0;
   font-weight: 500;
 }
 
 .smart h4 {
-  font-size: 16px;
+  font-size: 22px;
   color: #04b4e0;
   font-weight: 500;
 }
 
 .smart h5 {
-  font-size: 16px;
+  font-size: 22px;
   color: #04b4e0;
   font-weight: 500;
 }
 
 .smart h6 {
-  font-size: 16px;
+  font-size: 22px;
   color: #04b4e0;
   font-weight: 500;
 }
