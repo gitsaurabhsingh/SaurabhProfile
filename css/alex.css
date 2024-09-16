@@ -1986,6 +1986,10 @@ body {
     border-radius: 30px;
   }
 
+  .box {
+    display: none;
+  }
+
   .Lorem {
     width: 100%;
     padding: 20px 60px;
@@ -2067,10 +2071,16 @@ body {
     width: 100%;
   }
 
+  .study1 {
+    display: block;
+    margin-top: 20px;
+    width: 100%;
+    gap: 50px;
+  }
+
   .power {
     display: block;
-
-    width: 8%;
+    width: 11%;
   }
 
   .divider {
@@ -2109,6 +2119,10 @@ body {
   .certificate {
     width: 100%;
     margin-top: 50px;
+  }
+
+  .member {
+    padding: 9px 31px;
   }
 
   .date {
