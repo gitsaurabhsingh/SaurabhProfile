@@ -1790,8 +1790,7 @@ body {
   }
   .power {
     display: block;
-    width: 24%;
-    text-align: right;
+    width: 8%;
   }
   .power h2 {
     font-size: 21px;
@@ -2070,7 +2069,8 @@ body {
 
   .power {
     display: block;
-    width: 13%;
+
+    width: 8%;
   }
 
   .divider {
