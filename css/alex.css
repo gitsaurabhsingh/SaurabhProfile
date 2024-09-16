@@ -2122,6 +2122,7 @@ body {
   .certificate {
     width: 100%;
     margin-top: 50px;
+    display: block;
   }
 
   .member {
@@ -2134,6 +2135,10 @@ body {
     justify-content: space-between;
     border: solid 2px #ddd;
     margin-top: 20px;
+  }
+
+  .drop {
+    display: block;
   }
 
   .all {
