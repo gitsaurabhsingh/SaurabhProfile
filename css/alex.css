@@ -2138,6 +2138,7 @@ body {
 
   .drop {
     display: block;
+    width: 100%;
   }
 
   .all {
