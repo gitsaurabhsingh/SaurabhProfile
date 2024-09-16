@@ -2115,6 +2115,11 @@ body {
     margin-top: 21px;
   }
 
+  .drop {
+    display: block;
+    width: 100%;
+  }
+
   .lead {
     display: none;
   }
@@ -2134,11 +2139,6 @@ body {
     justify-content: space-between;
     border: solid 2px #ddd;
     margin-top: 20px;
-  }
-
-  .drop {
-    display: block;
-    width: 100%;
   }
 
   .all {
