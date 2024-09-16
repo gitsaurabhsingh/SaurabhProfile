@@ -1744,8 +1744,38 @@ body {
     width: 100%;
   }
 
-  .lead {
+  .divider {
+    position: absolute;
+    left: -5%;
+    bottom: 0;
+    width: 2px;
+    background-color: #444;
+    position: relative;
+    top: 20px;
+  }
+  .file {
     display: block;
+    width: 100%;
+    margin-top: 23px;
+  }
+
+  .divider1 {
+    top: 20px;
+    left: -5%;
+    bottom: 0px;
+    width: 2px;
+    background-color: #444;
+    position: relative;
+  }
+
+  .file1 {
+    display: block;
+    width: 100%;
+    margin-top: 24px;
+  }
+
+  .lead {
+    display: none;
     margin-top: 20px;
     width: 100%;
   }
@@ -1782,7 +1812,7 @@ body {
     width: 100%;
   }
   .box {
-    display: block;
+    display: none;
     justify-content: space-between;
     margin-top: 16px;
   }
